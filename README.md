@@ -7,3 +7,9 @@ https://youtu.be/q_o_3UNyTaw
 ### Technologies used:
 - Python
 - Juypter Notebook
+### Code Snippets 
+In order to generate the table above, we simply add 2 loops to generate the inputs
+```python
+ for I1 in [0, 1]:
+        for I2 in [0,1]:
+```
